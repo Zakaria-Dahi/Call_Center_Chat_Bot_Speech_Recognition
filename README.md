@@ -1,6 +1,6 @@
 # Call_Center_Chat_Bot_Speech_Recognition
 
-**Programmer:** Zakaria Abdelmoiz DAHI, University of Malaga, Spain. :shipit:
+**Programmer:** Zakaria Abdelmoiz DAHI. :shipit:
 
 **About:** This repository contains the code I developed for a prototype of a call center of a Spanish company. It is a ``natural language processing module`` that uses the ``Google speech recognition API``.
 
